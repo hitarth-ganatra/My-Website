@@ -27,7 +27,7 @@ body{
     background: var(--white2);
     display: flex; 
     justify-content: center; 
-    align-items: flex-start;
+    align-items: center;
     overflow: hidden;
     transition: width 0.5s, left 0.5s;
 }
